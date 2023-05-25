@@ -47,3 +47,8 @@ p {
 .example li {
     text-decoration: none;
 }
+
+#return {
+    font-size: smaller;
+    color: rgb(163, 151, 243);
+}
