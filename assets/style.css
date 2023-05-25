@@ -25,11 +25,25 @@ li, a {
     text-decoration: none;
 }
 
-li:hover {
+header li:hover, nav li:hover {
     text-decoration: underline;
     color: darkslateblue;
 }
 
+p {
+    font-size: 1rem;
+}
+
 .active-page {
     font-weight: bold;
+}
+
+.example {
+    background-color: rgb(225, 248, 248);
+    width: fit-content;
+    color: darkslateblue;
+}
+
+.example li {
+    text-decoration: none;
 }
