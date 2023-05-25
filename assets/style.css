@@ -1,0 +1,18 @@
+* {
+    font-family: monospace;
+    color: slateblue;
+}
+
+li, a {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+li:hover {
+    text-decoration: underline;
+    color: darkslateblue;
+}
+
+.active-page {
+    font-weight: bold;
+}
