@@ -1,6 +1,23 @@
 * {
     font-family: monospace;
     color: slateblue;
+    padding: 5px 10px 5px 10px;
+}
+
+hr {
+    border-top: 1px salmon dashed;
+    border-left: none;
+}
+
+nav li {
+    display: inline-block;
+}
+
+ul {
+    padding: 10px;
+    position: absolute;
+    right: 40px;
+    top: 20px;
 }
 
 li, a {
